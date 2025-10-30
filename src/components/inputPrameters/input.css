@@ -1,0 +1,42 @@
+.inpurComponent {
+    margin-left: 2%;
+    height: 80%;
+    width: 50%;
+    background-color: transparent;
+}
+
+.inputBox {
+    margin-left: 1.5%;
+    height: 75%;
+    width: 80%;
+}
+
+.inputBox textarea {
+    height: 100%;
+    width: 90%;
+    outline: none;
+    resize: none;
+    font-family: monospace;
+    font-size: 14px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    background-color: #f9f9f9;
+    white-space: pre-wrap;  
+}
+
+.submitinputbox{
+    margin-top: 6%;
+    margin-left: 2%;
+    border: 2px solid rgb(167, 233, 242);
+    border-radius: 8px;
+    color: gray;
+    background-color: #000000;
+}
+
+.heading {
+    margin: 1%;
+    color: #FFCC80;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

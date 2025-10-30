@@ -1,0 +1,10 @@
+.heroSection {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    color: #FFCC80;
+}
